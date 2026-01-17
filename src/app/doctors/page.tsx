@@ -1,7 +1,7 @@
 /** @format */
 
 "use client";
-
+export const dynamic = "force-dynamic";
 import { useState, useEffect } from "react";
 import { useSearchParams } from "next/navigation"; // الأداة اللي بتقرأ الـ URL
 import { doctors } from "@/data/doctors";
