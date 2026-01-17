@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # 🏥 MediCare – Healthcare Management Platform
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://medicare-platform.vercel.app)
@@ -15,30 +17,30 @@
 
 ## ✨ Key Features
 
-* **👨‍⚕️ Doctor Discovery** – Browse and search doctors by specialty with detailed profiles.
-* **📅 Smart Appointment Booking** – Real‑time scheduling with a smooth booking flow.
-* **🔐 Secure Authentication** – User authentication and profile management powered by **Clerk**.
-* **📱 Fully Responsive UI** – Optimized for mobile, tablet, and desktop devices.
-* **⚡ High Performance & SEO** – Built with **Next.js 14 App Router** for speed and scalability.
-* **🎨 Modern UI Components** – Clean and professional interface using **Shadcn UI**.
+- **👨‍⚕️ Doctor Discovery** – Browse and search doctors by specialty with detailed profiles.
+- **📅 Smart Appointment Booking** – Real‑time scheduling with a smooth booking flow.
+- **🔐 Secure Authentication** – User authentication and profile management powered by **Clerk**.
+- **📱 Fully Responsive UI** – Optimized for mobile, tablet, and desktop devices.
+- **⚡ High Performance & SEO** – Built with **Next.js 14 App Router** for speed and scalability.
+- **🎨 Modern UI Components** – Clean and professional interface using **Shadcn UI**.
 
 ---
 
 ## 📸 Screenshots
 
 ### 🖥️ Desktop Experience
+
 <p align="center">
   <img src="./public/screenshots/home.png" width="100%" alt="Home Page Preview" />
 </p>
 
-| 👨‍⚕️ Specialist Selection | 📅 Appointment Booking |
-|---|---|
-| ![Doctors](./screenshots/doctors.png) | ![Booking](./screenshots/booking.png) |
+| 👨‍⚕️ Specialist Selection                      | 📅 Appointment Booking                       |
+| -------------------------------------------- | -------------------------------------------- |
+| ![Doctors](./public/screenshots/doctors.png) | ![Booking](./public/screenshots/booking.png) |
 
-| 📁 Appointments Management | 📱 Mobile Experience |
-|---|---|
-| ![Appointments](./screenshots/appointments.png) | ![Mobile](./screenshots/mobile.png) |
-
+| 📁 Appointments Management                             | 📱 Mobile Experience                       |
+| ------------------------------------------------------ | ------------------------------------------ |
+| ![Appointments](./public/screenshots/appointments.png) | ![Mobile](./public/screenshots/mobile.png) |
 
 > 📁 Screenshots are stored in the `/screenshots` directory.
 
@@ -46,13 +48,13 @@
 
 ## 🛠️ Tech Stack
 
-* **Framework:** Next.js 14 (App Router)
-* **Library:** React.js
-* **Language:** TypeScript
-* **Styling:** Tailwind CSS
-* **UI Components:** Shadcn UI
-* **Authentication:** Clerk
-* **Icons:** Lucide React
+- **Framework:** Next.js 14 (App Router)
+- **Library:** React.js
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **UI Components:** Shadcn UI
+- **Authentication:** Clerk
+- **Icons:** Lucide React
 
 ---
 
@@ -64,18 +66,18 @@ This project was built to demonstrate a real‑world healthcare booking system u
 
 ## 📌 Project Status
 
-* ✅ Fully functional demo
-* 🚀 Production‑ready structure
-* 🔧 Easily extendable with payments, notifications, and admin dashboards
+- ✅ Fully functional demo
+- 🚀 Production‑ready structure
+- 🔧 Easily extendable with payments, notifications, and admin dashboards
 
 ---
 
 ## 🛣️ Roadmap
 
-* [ ] Stripe payment integration
-* [ ] Email & SMS notifications
-* [ ] Admin analytics dashboard
-* [ ] Multi‑language support
+- [ ] Stripe payment integration
+- [ ] Email & SMS notifications
+- [ ] Admin analytics dashboard
+- [ ] Multi‑language support
 
 ---
 
@@ -126,9 +128,5 @@ This project is licensed under the **MIT License**.
 Developed by **Your Name**
 Front‑End / Full‑Stack Developer
 
-* GitHub: [https://github.com/Mohamed-Gamal-code](https://github.com/Mohamed-Gamal-code)
-* LinkedIn: [https://www.linkedin.com/in/mohamed-gamal-3965663a3/](https://www.linkedin.com/in/mohamed-gamal-3965663a3/)
-
-
-
-
+- GitHub: [https://github.com/Mohamed-Gamal-code](https://github.com/Mohamed-Gamal-code)
+- LinkedIn: [https://www.linkedin.com/in/mohamed-gamal-3965663a3/](https://www.linkedin.com/in/mohamed-gamal-3965663a3/)
