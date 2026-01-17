@@ -124,9 +124,9 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👤 Author
-
-Developed by **Your Name**
-Front‑End / Full‑Stack Developer
+Developed by **Mohamed Gamal**  
+Front-End / Full-Stack Developer specializing in modern web applications.
 
 - GitHub: [https://github.com/Mohamed-Gamal-code](https://github.com/Mohamed-Gamal-code)
 - LinkedIn: [https://www.linkedin.com/in/mohamed-gamal-3965663a3/](https://www.linkedin.com/in/mohamed-gamal-3965663a3/)
+* **Portfolio:** [My Portfolio](https://my-portfolio-3y8d.vercel.app/)
