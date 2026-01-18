@@ -2,7 +2,7 @@
 
 # 🏥 MediCare – Healthcare Management Platform
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://medicare-platform.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](medicare-platform-gamma.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -126,7 +126,9 @@ This project is licensed under the **MIT License**.
 ## 👤 Author
 Developed by **Mohamed Gamal**  
 Front-End / Full-Stack Developer specializing in modern web applications.
+## 👤 Author
 
-- GitHub: [https://github.com/Mohamed-Gamal-code](https://github.com/Mohamed-Gamal-code)
-- LinkedIn: [https://www.linkedin.com/in/mohamed-gamal-3965663a3/](https://www.linkedin.com/in/mohamed-gamal-3965663a3/)
-* **Portfolio:** [My Portfolio](https://my-portfolio-3y8d.vercel.app/)
+- 🐙 **GitHub:** [Mohamed Gamal](https://github.com/Mohamed-Gamal-code)
+- 🔗 LinkedIn: [Connect](https://www.linkedin.com/in/mohamed-gamal-3965663a3)
+- 🌐 Portfolio: [Visit](https://my-portfolio-3y8d.vercel.app)
+- 💼 Upwork: [Hire Me](https://www.upwork.com/freelancers/~0194a7d28b23a1525f)  
