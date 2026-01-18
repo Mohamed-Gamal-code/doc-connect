@@ -2,7 +2,7 @@
 
 # 🏥 MediCare – Healthcare Management Platform
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](medicare-platform-gamma.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://medicare-platform-gamma.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
